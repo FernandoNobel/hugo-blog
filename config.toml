@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Hugo Blog"
+languageCode = "es-es"
+title = "Fernando Nóbel"
 
 [permalinks]
   blog = "/:filename/"
@@ -9,7 +9,7 @@ title = "Hugo Blog"
 # The value of pre is the icon name
 [menu]
   [[menu.main]]
-    name = "Home"
+    name = "Inicio"
     pre = "home"
     url = "/"
     weight = 1
@@ -19,14 +19,14 @@ title = "Hugo Blog"
     url = "/blog/"
     weight = 2
   [[menu.main]]
-    name = "Tags"
+    name = "Etiquetas"
     pre = "tag"
     url = "/tags/"
     weight = 3
 
 [params]
   dateFormat = "Jan 2, 2006"
-  homeText = "You just made a Hugo blog from scratch."
+  homeText = "Bienvenidos a la gestalt"
 
 [taxonomies]
   tag = "tags"
