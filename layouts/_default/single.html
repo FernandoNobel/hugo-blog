@@ -1,8 +1,12 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
-{{ partial "date-and-tags.html" . }}
-<br><br>
-{{ .Content }}
+<div class="section">
+  <div class="entry">
+    <div class="title">{{ .Title }}</div>
+    {{ partial "date-and-tags.html" . }}
+    <br><br>
+    {{ .Content }}
+  </div>
+</div>
 
 {{ end }}
