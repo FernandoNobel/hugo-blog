@@ -1,18 +1,22 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
+<div class="section">
+  <div class="entry">
+    <div class="title">{{ .Title }}</div>
 
-{{ $type := .Type }}
-{{ range $key, $value := .Data.Terms.ByCount }}
-  {{ $name := .Name }}
-  {{ $count := .Count }}
-  {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
-  <p>
-    <a href="{{ .Permalink }}">
+    {{ $type := .Type }}
+    {{ range $key, $value := .Data.Terms.ByCount }}
+    {{ $name := .Name }}
+    {{ $count := .Count }}
+    {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+    <p>
+    <a class="tag" href="{{ .Permalink }}">
       <span>{{ $count }}</span> {{ $name }}
     </a>
-  </p>
-  {{ end }}
-{{ end }}
+    </p>
+    {{ end }}
+    {{ end }}
 
+  </div>
+</div>
 {{ end }}
