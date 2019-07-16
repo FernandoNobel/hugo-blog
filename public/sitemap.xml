@@ -29,6 +29,10 @@
   </url>
   
   <url>
+    <loc>http://fernandonobel.xyz/about/</loc>
+  </url>
+  
+  <url>
     <loc>http://fernandonobel.xyz/tags/</loc>
     <priority>0</priority>
   </url>
