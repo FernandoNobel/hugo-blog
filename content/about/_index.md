@@ -1,7 +1,7 @@
 ---
 title: Sobre mi
 ---
-![Mi cara](/img/my-face.png)
+<center>![Mi cara](/img/my-face.png)</center>
 
 Escribo cosas y dibujo otras.
 Mi nombre se escribe con “b” y con tilde en la “o”.

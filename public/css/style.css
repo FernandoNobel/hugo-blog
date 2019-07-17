@@ -64,7 +64,7 @@ hr {
 /* Create two unequal columns that floats next to each other */
 /* Left column */
 .section {
-  width: 400px;
+  width: 500px;
   padding: 20px;
   padding-top: 30px;
   padding-bottom: 0px;
