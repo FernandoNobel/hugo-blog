@@ -80,6 +80,7 @@ hr {
   grid-row: 2;
 }
 
+
 .navbar li a {
   display: block;
   color: #222222;
@@ -119,14 +120,32 @@ hr {
   text-decoration: none;
 }
 
-
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
+  body{
+  
+    width: 100%;
+  }
   #main {
     display: block;
   }
   .rightcolumn{
     width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .section{
+    width: 100%;
+    margin: auto;
+  }
+  .navbar {
+    width: 75%;
+    margin: auto;
+    padding-bottom: 20px;
+  }
+  .navbar li{
+    margin: auto;
+    float: left;
     padding-left: 40px;
     padding-right: 40px;
   }
