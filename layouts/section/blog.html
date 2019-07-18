@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div class="section">
+  <div class="entry">
+    <div class="title">{{ .Title }}</div>
+    {{ .Content }}
+
+    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ $href := print .Permalink }}
+    {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+    {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+
+    <time class="date" datetime="{{ $dateTime }}">{{ .PublishDate.Format $dateFormat }}</time>
+    <a href="{{ $href }}" style="padding-left:10px">{{ .Title }}</a>
+    <br>
+    {{ end }}
+
+  </div>
+</div>
+
+{{ end }}

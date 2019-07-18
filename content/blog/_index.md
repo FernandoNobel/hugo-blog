@@ -1,3 +1,3 @@
 ---
-title: Blog
+title: Entradas del blog
 ---
