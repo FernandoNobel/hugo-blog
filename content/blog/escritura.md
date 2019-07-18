@@ -1,7 +1,7 @@
 ---
 title: "Escritura"
 date: 2019-07-15T21:29:07+02:00
-tags: []
+tags: [reflexión]
 draft: false
 ---
 Me gustaría poder plasmar mis pensamientos en palabras escritas, después ordenarlos y darles forma. Sin mayor pretensión que ser un pasatiempo, como si se tratase de una escultura o un cuadro, donde pueda invertir horas, tranquilamente.

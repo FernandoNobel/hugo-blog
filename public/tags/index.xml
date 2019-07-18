@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Fernando Nóbel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
+    <lastBuildDate>Wed, 17 Jul 2019 14:11:36 +0200</lastBuildDate>
     
 	<atom:link href="http://fernandonobel.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>poesía</title>
+      <link>http://fernandonobel.xyz/tags/poes%C3%ADa/</link>
+      <pubDate>Wed, 17 Jul 2019 14:11:36 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/tags/poes%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflexión</title>
+      <link>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</link>
+      <pubDate>Mon, 15 Jul 2019 21:29:07 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 title: "Vaciarme"
 date: 2019-07-16T14:01:59+02:00
-tags: []
+tags: [poesía]
 draft: false
 ---
 Me gustaría vaciarme por dentro.<br>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poesía on Fernando Nóbel</title>
+    <link>http://fernandonobel.xyz/tags/poes%C3%ADa/</link>
+    <description>Recent content in poesía on Fernando Nóbel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Wed, 17 Jul 2019 14:11:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://fernandonobel.xyz/tags/poes%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hueco</title>
+      <link>http://fernandonobel.xyz/hueco/</link>
+      <pubDate>Wed, 17 Jul 2019 14:11:36 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/hueco/</guid>
+      <description>Está vacío, hueco Lleno de moscas Que, a solas Le atan al suelo</description>
+    </item>
+    
+    <item>
+      <title>Vaciarme</title>
+      <link>http://fernandonobel.xyz/vaciarme/</link>
+      <pubDate>Tue, 16 Jul 2019 14:01:59 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/vaciarme/</guid>
+      <description>Me gustaría vaciarme por dentro.
+Expulsar una a una todas mis ideas.
+Encajarlas como si se tratase de un puzzle.
+Dejar plasmado que alguna vez existió:
+un ser que realizaba estos pensamientos.</description>
+    </item>
+    
+    <item>
+      <title>Tren</title>
+      <link>http://fernandonobel.xyz/tren/</link>
+      <pubDate>Mon, 15 Jul 2019 21:29:13 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/tren/</guid>
+      <description>Cerca de aquí existe un tren triste.
+Un tren que nunca se detiene en ninguna parada,
+pero que siempre lleva pasajeros.
+El tiempo, al menos en el exterior, parece no avanzar.
+Por las ventanas entra la luz de un atardecer eterno,
+con unos colores cálidos y anaranjados.
+Muchos de los pasajeros no hablan.
+Algunos han pasado tanto tiempo por estos vagones,
+que se han desdibujado y fundido con el propio tren.</description>
+    </item>
+    
+  </channel>
+</rss>

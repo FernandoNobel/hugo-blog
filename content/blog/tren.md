@@ -1,7 +1,7 @@
 ---
 title: "Tren"
 date: 2019-07-15T21:29:13+02:00
-tags: []
+tags: [poesía]
 draft: false
 ---
 Cerca de aquí existe un tren triste.<br>

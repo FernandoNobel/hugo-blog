@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reflexión on Fernando Nóbel</title>
+    <link>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</link>
+    <description>Recent content in reflexión on Fernando Nóbel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 15 Jul 2019 21:29:07 +0200</lastBuildDate>
+    
+	<atom:link href="http://fernandonobel.xyz/tags/reflexi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Escritura</title>
+      <link>http://fernandonobel.xyz/escritura/</link>
+      <pubDate>Mon, 15 Jul 2019 21:29:07 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/escritura/</guid>
+      <description>Me gustaría poder plasmar mis pensamientos en palabras escritas, después ordenarlos y darles forma. Sin mayor pretensión que ser un pasatiempo, como si se tratase de una escultura o un cuadro, donde pueda invertir horas, tranquilamente.
+Me gustaría tener la costumbre de pensar durante el día sobre el próximo momento en el que podré sentarme a escribir. Y poder deleitarme con ese placer de imaginarme haciendo la acción antes de hacerla, que normalmente es mayor que realizar la acción en sí misma.</description>
+    </item>
+    
+  </channel>
+</rss>
