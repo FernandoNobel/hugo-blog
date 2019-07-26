@@ -17,7 +17,7 @@ title = "Fernando Nóbel"
     name = "Sobre mi"
     pre = "edit"
     url = "/about/"
-    weight = 3
+    weight = 2
   [[menu.main]]
     name = "Blog"
     pre = "edit"
@@ -28,6 +28,12 @@ title = "Fernando Nóbel"
     pre = "tag"
     url = "/tags/"
     weight = 4
+  [[menu.main]]
+    name = "GitHub"
+    pre = "git"
+    url = "https://github.com/FernandoNobel"
+    weight = 5
+
 
 [params]
   dateFormat = "Jan 2, 2006"
