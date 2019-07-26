@@ -1,5 +1,5 @@
 ---
-title: Sobre mi
+title: Sobre mí
 ---
 <center>![Mi cara](/img/my-face.png)</center>
 
