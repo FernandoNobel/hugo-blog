@@ -9,3 +9,4 @@ Expulsar una a una todas mis ideas.<br>
 Encajarlas como si se tratase de un puzzle.<br>
 Dejar plasmado que alguna vez existió:<br>
 un ser que realizaba estos pensamientos.
+<!--more-->

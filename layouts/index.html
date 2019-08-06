@@ -4,14 +4,18 @@
 
   <div class="entry">
     {{ range .Pages.ByPublishDate.Reverse }}
-      <div class="entry">
-        <div class="title">{{ .Title }}</div>
-        {{ partial "date-and-tags.html" . }}
-        <br><br>
-        {{ .Content }}
+    <div class="entry">
+      <div class="title">{{ .Title }}</div>
+      {{ partial "date-and-tags.html" . }}
+      <br><br>
+      {{ .Summary }}
+      {{ if .Truncated }}
+      <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+      <a class="readmore" href="{{ .RelPermalink }}">Leer más...</a>
+      {{ end }}
       </div>
-    {{ end }}
-  </div>
+      {{ end }}
+    </div>
 
-</div>
-{{ end }}
+  </div>
+  {{ end }}

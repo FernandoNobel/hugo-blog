@@ -6,10 +6,23 @@
     <description>Recent content on Fernando Nóbel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 18 Jul 2019 14:57:02 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 19:46:20 +0200</lastBuildDate>
     
 	<atom:link href="http://fernandonobel.xyz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No trabajar</title>
+      <link>http://fernandonobel.xyz/trabajo/</link>
+      <pubDate>Tue, 06 Aug 2019 19:46:20 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/trabajo/</guid>
+      <description>&lt;p&gt;Estábamos en la casa rural, tumbados en uno de los sofás y en una de las hamacas de la zona del chill-out. El resto del grupo estaban en la piscina. Entonces pusimos el disco que habíamos prometido escuchar a un amigo nuestro que al final no pudo venir. Se trataba de &amp;ldquo;The Division Bell&amp;rdquo; de Pink Floyd y lo íbamos a escuchar entero: de principio a fin.&lt;/p&gt;
+
+&lt;p&gt;Todo estaba en calma, tanto que incluso nosotros estábamos en silencio disfrutando del momento.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, él rompió el silencio y dijo: &amp;ldquo;Si es que para esta bien, lo único que hay que hacer es no trabajar&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Claridad</title>
@@ -17,7 +30,7 @@
       <pubDate>Thu, 18 Jul 2019 14:57:02 +0200</pubDate>
       
       <guid>http://fernandonobel.xyz/claridad/</guid>
-      <description>Conforme me hago mayor, los momentos de claridad mental se van reduciendo. Preocupaciones, responsabilidades, obligaciones, &amp;hellip; Lentamente todo empieza requerir de mi atención, que es limitada. Por lo que todo se apresura y parece que el tiempo se escape.</description>
+      <description>&lt;p&gt;Conforme me hago mayor, los momentos de claridad mental se van reduciendo. Preocupaciones, responsabilidades, obligaciones, &amp;hellip; Lentamente todo empieza requerir de mi atención, que es limitada. Por lo que todo se apresura y parece que el tiempo se escape.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +39,10 @@
       <pubDate>Wed, 17 Jul 2019 14:11:36 +0200</pubDate>
       
       <guid>http://fernandonobel.xyz/hueco/</guid>
-      <description>Está vacío, hueco Lleno de moscas Que, a solas Le atan al suelo</description>
+      <description>&lt;p&gt;Está vacío, hueco &lt;br&gt;
+Lleno de moscas &lt;br&gt;
+Que, a solas &lt;br&gt;
+Le atan al suelo&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,11 +51,11 @@
       <pubDate>Tue, 16 Jul 2019 14:01:59 +0200</pubDate>
       
       <guid>http://fernandonobel.xyz/vaciarme/</guid>
-      <description>Me gustaría vaciarme por dentro.
-Expulsar una a una todas mis ideas.
-Encajarlas como si se tratase de un puzzle.
-Dejar plasmado que alguna vez existió:
-un ser que realizaba estos pensamientos.</description>
+      <description>&lt;p&gt;Me gustaría vaciarme por dentro.&lt;br&gt;
+Expulsar una a una todas mis ideas.&lt;br&gt;
+Encajarlas como si se tratase de un puzzle.&lt;br&gt;
+Dejar plasmado que alguna vez existió:&lt;br&gt;
+un ser que realizaba estos pensamientos.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,15 +64,9 @@ un ser que realizaba estos pensamientos.</description>
       <pubDate>Mon, 15 Jul 2019 21:29:13 +0200</pubDate>
       
       <guid>http://fernandonobel.xyz/tren/</guid>
-      <description>Cerca de aquí existe un tren triste.
-Un tren que nunca se detiene en ninguna parada,
-pero que siempre lleva pasajeros.
-El tiempo, al menos en el exterior, parece no avanzar.
-Por las ventanas entra la luz de un atardecer eterno,
-con unos colores cálidos y anaranjados.
-Muchos de los pasajeros no hablan.
-Algunos han pasado tanto tiempo por estos vagones,
-que se han desdibujado y fundido con el propio tren.</description>
+      <description>&lt;p&gt;Cerca de aquí existe un tren triste.&lt;br&gt;
+Un tren que nunca se detiene en ninguna parada,&lt;br&gt;
+pero que siempre lleva pasajeros.&lt;br&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,8 +75,7 @@ que se han desdibujado y fundido con el propio tren.</description>
       <pubDate>Mon, 15 Jul 2019 21:29:07 +0200</pubDate>
       
       <guid>http://fernandonobel.xyz/escritura/</guid>
-      <description>Me gustaría poder plasmar mis pensamientos en palabras escritas, después ordenarlos y darles forma. Sin mayor pretensión que ser un pasatiempo, como si se tratase de una escultura o un cuadro, donde pueda invertir horas, tranquilamente.
-Me gustaría tener la costumbre de pensar durante el día sobre el próximo momento en el que podré sentarme a escribir. Y poder deleitarme con ese placer de imaginarme haciendo la acción antes de hacerla, que normalmente es mayor que realizar la acción en sí misma.</description>
+      <description>&lt;p&gt;Me gustaría poder plasmar mis pensamientos en palabras escritas, después ordenarlos y darles forma. Sin mayor pretensión que ser un pasatiempo, como si se tratase de una escultura o un cuadro, donde pueda invertir horas, tranquilamente.&lt;/p&gt;</description>
     </item>
     
   </channel>

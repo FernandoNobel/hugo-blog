@@ -8,6 +8,7 @@ Cerca de aquí existe un tren triste.<br>
 Un tren que nunca se detiene en ninguna parada,<br>
 pero que siempre lleva pasajeros.<br>
 
+<!--more-->
 El tiempo, al menos en el exterior, parece no avanzar.<br>
 Por las ventanas entra la luz de un atardecer eterno,<br>
 con unos colores cálidos y anaranjados.<br>
@@ -31,3 +32,4 @@ Intentando no molestar.<br>
 Cada ocho vagones suelo hacer una pausa.<br>
 Me acomodo en un asiento.<br>
 Y escucho el traqueteo del tren.<br>
+<!--more-->

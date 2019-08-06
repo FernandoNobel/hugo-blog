@@ -6,3 +6,4 @@ draft: false
 ---
 
 Conforme me hago mayor, los momentos de claridad mental se van reduciendo. Preocupaciones, responsabilidades, obligaciones, ... Lentamente todo empieza requerir de mi atención, que es limitada. Por lo que todo se apresura y parece que el tiempo se escape.
+<!--more-->

@@ -125,6 +125,18 @@ hr {
   text-decoration: none;
 }
 
+.entry .readmore {
+  color: #222222;
+  text-decoration: none;
+  line-height: 3;
+  font-style: italic;
+}
+
+/* Change the link color on hover */
+.entry .readmore:hover {
+  color: #d3869b;
+}
+
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 800px) {
   body{
