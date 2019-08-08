@@ -6,10 +6,19 @@
     <description>Recent content in Entradas del blog on Fernando Nóbel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 06 Aug 2019 19:46:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 22:18:46 +0200</lastBuildDate>
     
 	<atom:link href="http://fernandonobel.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>El pozo</title>
+      <link>http://fernandonobel.xyz/pozo/</link>
+      <pubDate>Thu, 08 Aug 2019 22:18:46 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/pozo/</guid>
+      <description>&lt;p&gt;Mediante estas palabras busco proyectar luz en una parte de mi ser que olvido. Me asombra la ductilidad de la memoria, como el pasado baila y hace gimnasias para adaptarse a la percepción que tenemos de nosotros mismos. Me gustaría decir que de todo lo malo se aprende: pero no es así. Hay vivencias que nos debilitan. Y esta es una de ellas.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>No trabajar</title>

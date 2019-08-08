@@ -3,25 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://fernandonobel.xyz/pozo/</loc>
+    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://fernandonobel.xyz/blog/</loc>
-    <lastmod>2019-08-06T19:46:20+02:00</lastmod>
+    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/</loc>
-    <lastmod>2019-08-06T19:46:20+02:00</lastmod>
+    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/tags/</loc>
+    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/tags/poes%C3%ADa/</loc>
+    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</loc>
+    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/trabajo/</loc>
     <lastmod>2019-08-06T19:46:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://fernandonobel.xyz/tags/</loc>
-    <lastmod>2019-08-06T19:46:20+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -36,20 +53,8 @@
   </url>
   
   <url>
-    <loc>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</loc>
-    <lastmod>2019-07-18T14:57:02+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://fernandonobel.xyz/hueco/</loc>
     <lastmod>2019-07-17T14:11:36+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://fernandonobel.xyz/tags/poes%C3%ADa/</loc>
-    <lastmod>2019-07-17T14:11:36+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
