@@ -67,4 +67,4 @@ Todo pierde sentido.
 
 Espero que poniéndole este nombre,  <br>
 me permita ser más consciente <br>
-cuando me ocurra la próxima vez. <br>
+cuando caiga la próxima vez. <br>
