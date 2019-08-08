@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>diario on Fernando Nóbel</title>
+    <link>http://fernandonobel.xyz/tags/diario/</link>
+    <description>Recent content in diario on Fernando Nóbel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 06 Aug 2019 19:46:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://fernandonobel.xyz/tags/diario/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>No trabajar</title>
+      <link>http://fernandonobel.xyz/trabajo/</link>
+      <pubDate>Tue, 06 Aug 2019 19:46:20 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/trabajo/</guid>
+      <description>&lt;p&gt;Estábamos en la casa rural, tumbados en uno de los sofás y en una de las hamacas de la zona del chill-out. El resto del grupo estaban en la piscina. Entonces pusimos el disco que habíamos prometido escuchar a un amigo nuestro que al final no pudo venir. Se trataba de &amp;ldquo;The Division Bell&amp;rdquo; de Pink Floyd y lo íbamos a escuchar entero: de principio a fin.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

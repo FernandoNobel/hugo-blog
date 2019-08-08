@@ -1,7 +1,7 @@
 ---
 title: "No trabajar"
 date: 2019-08-06T19:46:20+02:00
-tags: []
+tags: [diario]
 draft: false
 ---
 
@@ -10,4 +10,4 @@ Estábamos en la casa rural, tumbados en uno de los sofás y en una de las hamac
 
 Todo estaba en calma, tanto que incluso nosotros estábamos en silencio disfrutando del momento.
 
-Finalmente, él rompió el silencio y dijo: "Si es que para esta bien, lo único que hay que hacer es no trabajar". 
+Finalmente, él rompió el silencio y dijo: "Si es que para estar bien, lo único que hay que hacer es no trabajar". 
