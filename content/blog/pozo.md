@@ -8,7 +8,6 @@ draft: false
 Mediante estas palabras busco proyectar luz en una parte de mi ser que olvido. Me asombra la ductilidad de la memoria, como el pasado baila y hace gimnasias para adaptarse a la percepción que tenemos de nosotros mismos. Me gustaría decir que de todo lo malo se aprende: pero no es así. Hay vivencias que nos debilitan. Y esta es una de ellas.
 
 <!--more-->
-<br>
 
 Caigo.<br>
 Empiezo a caer por un pozo que parece no tener fondo,<br>

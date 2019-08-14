@@ -7,14 +7,14 @@
 
 /* Add a gray background color with some padding */
 body {
-  font-family: Calibri;
+  font-family: 'Montserrat', sans-serif;
   font-size: 15.4px;
   background: #F5F5F5;
   width: 800px;
   margin: auto;
   color: #222222;
   padding-left: calc(100vw - 100%);
-}
+} 
 
 #main {
   display: grid;
@@ -30,8 +30,8 @@ h5 { font-size: .83em; }
 h6 { font-size: .75em; }
 
 p {
-  line-height: 23px;
-  margin-bottom: 10px;
+  line-height: 1.4;
+  margin-bottom: 26px;
 }
 
 /* Header/Blog Title */
