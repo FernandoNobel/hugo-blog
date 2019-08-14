@@ -5,7 +5,11 @@
   <div class="entry">
     {{ range .Pages.ByPublishDate.Reverse }}
     <div class="entry">
-      <div class="title">{{ .Title }}</div>
+      <div class="title">
+        <a href="{{ .RelPermalink }}">
+          {{ .Title }}
+        </a>
+      </div>
       {{ partial "date-and-tags.html" . }}
       <br><br>
       {{ .Summary }}

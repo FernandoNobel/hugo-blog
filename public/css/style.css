@@ -13,6 +13,7 @@ body {
   width: 800px;
   margin: auto;
   color: #222222;
+  padding-left: calc(100vw - 100%);
 }
 
 #main {
@@ -79,6 +80,17 @@ hr {
   text-align: right;
 }
 
+a {
+  color: #222222;
+  padding-bottom: 5px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+a:hover {
+  color: #d3869b;
+}
+
 
 .navbar li a {
   display: block;
@@ -111,6 +123,15 @@ hr {
 .entry .title {
   font-size: 1.5em;
   font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.entry .title::first-letter{
+  text-transform: capitalize;
+}
+
+.entry .title a:hover {
+  color: #222222;
 }
 
 .entry .date {
@@ -119,10 +140,6 @@ hr {
   text-align: left;
 
   color: #d3869b;
-}
-.entry .tag {
-  color: #222222;
-  text-decoration: none;
 }
 
 .entry .readmore {

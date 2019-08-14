@@ -3,9 +3,13 @@
 <div class="section">
   <div class="entry">
 
+    <div class="title">{{ .Title }}</div>
+
     {{ range .Pages.ByPublishDate.Reverse }}
     <p>
+    <b>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </b>
     <br>
     {{ partial "date-and-tags.html" . }}
     </p>
