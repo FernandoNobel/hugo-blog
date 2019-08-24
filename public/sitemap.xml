@@ -3,24 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fernandonobel.xyz/pozo/</loc>
-    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+    <loc>http://fernandonobel.xyz/amigos/</loc>
+    <lastmod>2019-08-23T21:44:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/blog/</loc>
-    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+    <lastmod>2019-08-23T21:44:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/tags/</loc>
-    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+    <lastmod>2019-08-23T21:44:19+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/</loc>
-    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
+    <lastmod>2019-08-23T21:44:19+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/tags/diario/</loc>
+    <lastmod>2019-08-23T21:44:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/pozo/</loc>
+    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
   </url>
   
   <url>
@@ -38,12 +49,6 @@
   <url>
     <loc>http://fernandonobel.xyz/trabajo/</loc>
     <lastmod>2019-08-06T19:46:20+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://fernandonobel.xyz/tags/diario/</loc>
-    <lastmod>2019-08-06T19:46:20+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

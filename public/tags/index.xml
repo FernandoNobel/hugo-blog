@@ -6,10 +6,19 @@
     <description>Recent content in Etiquetas on Fernando Nóbel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 08 Aug 2019 22:18:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 21:44:19 +0200</lastBuildDate>
     
 	<atom:link href="http://fernandonobel.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>diario</title>
+      <link>http://fernandonobel.xyz/tags/diario/</link>
+      <pubDate>Fri, 23 Aug 2019 21:44:19 +0200</pubDate>
+      
+      <guid>http://fernandonobel.xyz/tags/diario/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>poesía</title>
@@ -26,15 +35,6 @@
       <pubDate>Thu, 08 Aug 2019 22:18:46 +0200</pubDate>
       
       <guid>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diario</title>
-      <link>http://fernandonobel.xyz/tags/diario/</link>
-      <pubDate>Tue, 06 Aug 2019 19:46:20 +0200</pubDate>
-      
-      <guid>http://fernandonobel.xyz/tags/diario/</guid>
       <description></description>
     </item>
     
