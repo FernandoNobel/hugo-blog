@@ -3,24 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fernandonobel.xyz/desapego/</loc>
-    <lastmod>2019-09-11T23:12:36+02:00</lastmod>
+    <loc>http://fernandonobel.xyz/consciente/</loc>
+    <lastmod>2019-09-27T20:11:35+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/blog/</loc>
-    <lastmod>2019-09-11T23:12:36+02:00</lastmod>
+    <lastmod>2019-09-27T20:11:35+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/tags/</loc>
-    <lastmod>2019-09-11T23:12:36+02:00</lastmod>
+    <lastmod>2019-09-27T20:11:35+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/</loc>
-    <lastmod>2019-09-11T23:12:36+02:00</lastmod>
+    <lastmod>2019-09-27T20:11:35+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</loc>
+    <lastmod>2019-09-27T20:11:35+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/desapego/</loc>
+    <lastmod>2019-09-11T23:12:36+02:00</lastmod>
   </url>
   
   <url>
@@ -43,12 +54,6 @@
   <url>
     <loc>http://fernandonobel.xyz/pozo/</loc>
     <lastmod>2019-08-08T22:18:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://fernandonobel.xyz/tags/reflexi%C3%B3n/</loc>
-    <lastmod>2019-08-08T22:18:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
