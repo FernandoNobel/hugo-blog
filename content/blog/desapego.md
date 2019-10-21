@@ -12,8 +12,6 @@ soltarlo todo<br>
 hasta que al final<br>
 esté solo: solo de verdad<br>
 
-<!--more-->
-
 sin espejo<br>
 sin hogar<br>
 sin trabajo<br>
@@ -30,3 +28,4 @@ sin tiempo<br>
 
 un final desnudo:<br>
 que no quede ni yo mismo.<br>
+<!--more-->
