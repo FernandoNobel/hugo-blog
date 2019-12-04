@@ -1,6 +1,7 @@
 baseURL = "http://fernandonobel.xyz/"
 languageCode = "es-es"
 title = "Fernando Nóbel"
+googleAnalytics = "UA-66492471-1"
 
 [permalinks]
   blog = "/:filename/"
@@ -41,3 +42,4 @@ title = "Fernando Nóbel"
 
 [taxonomies]
   tag = "tags"
+
