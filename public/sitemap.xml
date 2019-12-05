@@ -3,24 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://fernandonobel.xyz/derrumbe/</loc>
-    <lastmod>2019-11-24T16:08:46+01:00</lastmod>
+    <loc>http://fernandonobel.xyz/blog/</loc>
+    <lastmod>2019-12-05T17:20:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://fernandonobel.xyz/blog/</loc>
+    <loc>http://fernandonobel.xyz/</loc>
+    <lastmod>2019-12-05T17:20:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/ideales/</loc>
+    <lastmod>2019-12-05T17:20:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fernandonobel.xyz/derrumbe/</loc>
     <lastmod>2019-11-24T16:08:46+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://fernandonobel.xyz/tags/</loc>
     <lastmod>2019-11-24T16:08:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://fernandonobel.xyz/</loc>
-    <lastmod>2019-11-24T16:08:46+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
