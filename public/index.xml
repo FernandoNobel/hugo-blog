@@ -2,44 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Nóbel</title>
-    <link>http://fernandonobel.xyz/</link>
+    <link>https://fernandonobel.github.io/</link>
     <description>Recent content on Fernando Nóbel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Thu, 05 Dec 2019 17:20:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 23:47:48 +0100</lastBuildDate>
     
-	<atom:link href="http://fernandonobel.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fernandonobel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Mapas</title>
+      <link>https://fernandonobel.github.io/mapa/</link>
+      <pubDate>Tue, 04 Feb 2020 23:47:48 +0100</pubDate>
+      
+      <guid>https://fernandonobel.github.io/mapa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;https://fernandonobel.github.io/img/mapa.jpeg&#34; width=80%&gt;&lt;/p&gt;
+
+&lt;p&gt;De los recuerdos,&lt;br&gt;
+solo trazo mapas sin&lt;br&gt;
+significado.
+&lt;/center&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Ideales</title>
-      <link>http://fernandonobel.xyz/ideales/</link>
+      <link>https://fernandonobel.github.io/ideales/</link>
       <pubDate>Thu, 05 Dec 2019 17:20:00 +0100</pubDate>
       
-      <guid>http://fernandonobel.xyz/ideales/</guid>
+      <guid>https://fernandonobel.github.io/ideales/</guid>
       <description>&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;http://fernandonobel.xyz/img/draw.jpg&#34; width=50%&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;img src=&#34;https://fernandonobel.github.io/img/draw.jpg&#34; width=50%&gt;&lt;/p&gt;
 
 &lt;p&gt;Un vaciado de ideales &lt;br&gt;
-Un hueco andante&lt;/p&gt;</description>
+Un hueco andante
+&lt;/center&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Derrumbe</title>
-      <link>http://fernandonobel.xyz/derrumbe/</link>
+      <link>https://fernandonobel.github.io/derrumbe/</link>
       <pubDate>Sun, 24 Nov 2019 16:08:46 +0100</pubDate>
       
-      <guid>http://fernandonobel.xyz/derrumbe/</guid>
+      <guid>https://fernandonobel.github.io/derrumbe/</guid>
       <description>&lt;p&gt;Desde hace unos meses estoy siendo más reflexivo de lo que suelo ser. Creo que estoy empezando a sentir lo que es madurar, o por lo menos, o soy más consciente de todo lo que he dejado atrás para llegar a donde estoy actualmente.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Autarquía</title>
-      <link>http://fernandonobel.xyz/autarquia/</link>
+      <link>https://fernandonobel.github.io/autarquia/</link>
       <pubDate>Mon, 21 Oct 2019 13:14:06 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/autarquia/</guid>
+      <guid>https://fernandonobel.github.io/autarquia/</guid>
       <description>&lt;p&gt;Mi piel se encuentra envejecida por el peso de la experiencia. &lt;br&gt;
 Si busco, en mi cuerpo puedo ver manchas, durezas, callos y cicatrices. &lt;br&gt;
 Una piel insensible. &lt;br&gt;
@@ -50,10 +65,10 @@ Un ser que lucha.&lt;/p&gt;</description>
     
     <item>
       <title>Consciente</title>
-      <link>http://fernandonobel.xyz/consciente/</link>
+      <link>https://fernandonobel.github.io/consciente/</link>
       <pubDate>Fri, 27 Sep 2019 20:11:35 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/consciente/</guid>
+      <guid>https://fernandonobel.github.io/consciente/</guid>
       <description>&lt;p&gt;Conversación de un buen amigo mío.&lt;/p&gt;
 
 &lt;p&gt;Hace tiempo, uno de mis tíos me dijo que había muerto un familiar. Que había muerto en la cama sin enterarse. Me dijo que así es como el quería morir. &lt;br&gt;
@@ -65,10 +80,10 @@ Entonces me quedé pensando sin decirle nada. &lt;br&gt;
     
     <item>
       <title>Desapego</title>
-      <link>http://fernandonobel.xyz/desapego/</link>
+      <link>https://fernandonobel.github.io/desapego/</link>
       <pubDate>Wed, 11 Sep 2019 23:12:36 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/desapego/</guid>
+      <guid>https://fernandonobel.github.io/desapego/</guid>
       <description>&lt;p&gt;Vivir es dejar atrás&lt;br&gt;
 dejar atrás lo que fue mío&lt;br&gt;
 dejar aquello que me definió&lt;br&gt;
@@ -96,10 +111,10 @@ que no quede ni yo mismo.&lt;br&gt;&lt;/p&gt;</description>
     
     <item>
       <title>Amigos</title>
-      <link>http://fernandonobel.xyz/amigos/</link>
+      <link>https://fernandonobel.github.io/amigos/</link>
       <pubDate>Fri, 23 Aug 2019 21:44:19 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/amigos/</guid>
+      <guid>https://fernandonobel.github.io/amigos/</guid>
       <description>&lt;p&gt;En este breve diálogo he probado a combinar experiencias reales de mi vida con la ambientación del mundo de fRáGiL.&lt;br&gt;
 —¿Sabías que estas pastillas me vuelven tonto?&lt;br&gt;
 —¿Cómo dices?&lt;br&gt;
@@ -114,19 +129,19 @@ que no quede ni yo mismo.&lt;br&gt;&lt;/p&gt;</description>
     
     <item>
       <title>El pozo</title>
-      <link>http://fernandonobel.xyz/pozo/</link>
+      <link>https://fernandonobel.github.io/pozo/</link>
       <pubDate>Thu, 08 Aug 2019 22:18:46 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/pozo/</guid>
+      <guid>https://fernandonobel.github.io/pozo/</guid>
       <description>&lt;p&gt;Mediante estas palabras busco proyectar luz en una parte de mi ser que olvido. Me asombra la ductilidad de la memoria, como el pasado baila y hace gimnasias para adaptarse a la percepción que tenemos de nosotros mismos. Me gustaría decir que de todo lo malo se aprende: pero no es así. Hay vivencias que nos debilitan. Y esta es una de ellas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>No trabajar</title>
-      <link>http://fernandonobel.xyz/trabajo/</link>
+      <link>https://fernandonobel.github.io/trabajo/</link>
       <pubDate>Tue, 06 Aug 2019 19:46:20 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/trabajo/</guid>
+      <guid>https://fernandonobel.github.io/trabajo/</guid>
       <description>&lt;p&gt;Estábamos en la casa rural, tumbados en uno de los sofás y en una de las hamacas de la zona del chill-out. El resto del grupo estaban en la piscina. Entonces pusimos el disco que habíamos prometido escuchar a un amigo nuestro que al final no pudo venir. Se trataba de &amp;ldquo;The Division Bell&amp;rdquo; de Pink Floyd y lo íbamos a escuchar entero: de principio a fin.&lt;/p&gt;
 
 &lt;p&gt;Todo estaba en calma, tanto que incluso nosotros estábamos en silencio disfrutando del momento.&lt;/p&gt;
@@ -136,19 +151,19 @@ que no quede ni yo mismo.&lt;br&gt;&lt;/p&gt;</description>
     
     <item>
       <title>Claridad</title>
-      <link>http://fernandonobel.xyz/claridad/</link>
+      <link>https://fernandonobel.github.io/claridad/</link>
       <pubDate>Thu, 18 Jul 2019 14:57:02 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/claridad/</guid>
+      <guid>https://fernandonobel.github.io/claridad/</guid>
       <description>&lt;p&gt;Conforme me hago mayor, los momentos de claridad mental se van reduciendo. Preocupaciones, responsabilidades, obligaciones, &amp;hellip; Lentamente todo empieza requerir de mi atención, que es limitada. Por lo que todo se apresura y parece que el tiempo se escape.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hueco</title>
-      <link>http://fernandonobel.xyz/hueco/</link>
+      <link>https://fernandonobel.github.io/hueco/</link>
       <pubDate>Wed, 17 Jul 2019 14:11:36 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/hueco/</guid>
+      <guid>https://fernandonobel.github.io/hueco/</guid>
       <description>&lt;p&gt;Está vacío, hueco &lt;br&gt;
 Lleno de moscas &lt;br&gt;
 Que, a solas &lt;br&gt;
@@ -157,10 +172,10 @@ Le atan al suelo&lt;/p&gt;</description>
     
     <item>
       <title>Vaciarme</title>
-      <link>http://fernandonobel.xyz/vaciarme/</link>
+      <link>https://fernandonobel.github.io/vaciarme/</link>
       <pubDate>Tue, 16 Jul 2019 14:01:59 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/vaciarme/</guid>
+      <guid>https://fernandonobel.github.io/vaciarme/</guid>
       <description>&lt;p&gt;Me gustaría vaciarme por dentro.&lt;br&gt;
 Expulsar una a una todas mis ideas.&lt;br&gt;
 Encajarlas como si se tratase de un puzzle.&lt;br&gt;
@@ -170,10 +185,10 @@ un ser que realizaba estos pensamientos.&lt;/p&gt;</description>
     
     <item>
       <title>Tren</title>
-      <link>http://fernandonobel.xyz/tren/</link>
+      <link>https://fernandonobel.github.io/tren/</link>
       <pubDate>Mon, 15 Jul 2019 21:29:13 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/tren/</guid>
+      <guid>https://fernandonobel.github.io/tren/</guid>
       <description>&lt;p&gt;Cerca de aquí existe un tren triste.&lt;br&gt;
 Un tren que nunca se detiene en ninguna parada,&lt;br&gt;
 pero que siempre lleva pasajeros.&lt;br&gt;&lt;/p&gt;
@@ -205,10 +220,10 @@ Y escucho el traqueteo del tren.&lt;br&gt;&lt;/p&gt;</description>
     
     <item>
       <title>Escritura</title>
-      <link>http://fernandonobel.xyz/escritura/</link>
+      <link>https://fernandonobel.github.io/escritura/</link>
       <pubDate>Mon, 15 Jul 2019 21:29:07 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/escritura/</guid>
+      <guid>https://fernandonobel.github.io/escritura/</guid>
       <description>&lt;p&gt;Me gustaría poder plasmar mis pensamientos en palabras escritas, después ordenarlos y darles forma. Sin mayor pretensión que ser un pasatiempo, como si se tratase de una escultura o un cuadro, donde pueda invertir horas, tranquilamente.&lt;/p&gt;
 
 &lt;p&gt;Me gustaría tener la costumbre de pensar durante el día sobre el próximo momento en el que podré sentarme a escribir. Y poder deleitarme con ese placer de imaginarme haciendo la acción antes de hacerla, que normalmente es mayor que realizar la acción en sí misma.&lt;/p&gt;</description>

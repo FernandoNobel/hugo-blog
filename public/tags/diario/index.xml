@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>diario on Fernando Nóbel</title>
-    <link>http://fernandonobel.xyz/tags/diario/</link>
+    <link>https://fernandonobel.github.io/tags/diario/</link>
     <description>Recent content in diario on Fernando Nóbel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Fri, 23 Aug 2019 21:44:19 +0200</lastBuildDate>
     
-	<atom:link href="http://fernandonobel.xyz/tags/diario/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fernandonobel.github.io/tags/diario/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amigos</title>
-      <link>http://fernandonobel.xyz/amigos/</link>
+      <link>https://fernandonobel.github.io/amigos/</link>
       <pubDate>Fri, 23 Aug 2019 21:44:19 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/amigos/</guid>
+      <guid>https://fernandonobel.github.io/amigos/</guid>
       <description>&lt;p&gt;En este breve diálogo he probado a combinar experiencias reales de mi vida con la ambientación del mundo de fRáGiL.&lt;br&gt;
 —¿Sabías que estas pastillas me vuelven tonto?&lt;br&gt;
 —¿Cómo dices?&lt;br&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>No trabajar</title>
-      <link>http://fernandonobel.xyz/trabajo/</link>
+      <link>https://fernandonobel.github.io/trabajo/</link>
       <pubDate>Tue, 06 Aug 2019 19:46:20 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/trabajo/</guid>
+      <guid>https://fernandonobel.github.io/trabajo/</guid>
       <description>&lt;p&gt;Estábamos en la casa rural, tumbados en uno de los sofás y en una de las hamacas de la zona del chill-out. El resto del grupo estaban en la piscina. Entonces pusimos el disco que habíamos prometido escuchar a un amigo nuestro que al final no pudo venir. Se trataba de &amp;ldquo;The Division Bell&amp;rdquo; de Pink Floyd y lo íbamos a escuchar entero: de principio a fin.&lt;/p&gt;
 
 &lt;p&gt;Todo estaba en calma, tanto que incluso nosotros estábamos en silencio disfrutando del momento.&lt;/p&gt;

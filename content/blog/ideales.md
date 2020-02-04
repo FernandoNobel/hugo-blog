@@ -7,9 +7,9 @@ draft: false
 
 <center>
 <img src="/img/draw.jpg" width=50%>
-</center>
 
 Un vaciado de ideales <br>
 Un hueco andante
+</center>
 
 <!--more-->

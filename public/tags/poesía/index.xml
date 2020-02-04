@@ -2,21 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poesía on Fernando Nóbel</title>
-    <link>http://fernandonobel.xyz/tags/poes%C3%ADa/</link>
+    <link>https://fernandonobel.github.io/tags/poes%C3%ADa/</link>
     <description>Recent content in poesía on Fernando Nóbel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 21 Oct 2019 13:14:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2020 23:47:48 +0100</lastBuildDate>
     
-	<atom:link href="http://fernandonobel.xyz/tags/poes%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fernandonobel.github.io/tags/poes%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Mapas</title>
+      <link>https://fernandonobel.github.io/mapa/</link>
+      <pubDate>Tue, 04 Feb 2020 23:47:48 +0100</pubDate>
+      
+      <guid>https://fernandonobel.github.io/mapa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;https://fernandonobel.github.io/img/mapa.jpeg&#34; width=80%&gt;&lt;/p&gt;
+
+&lt;p&gt;De los recuerdos,&lt;br&gt;
+solo trazo mapas sin&lt;br&gt;
+significado.
+&lt;/center&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Autarquía</title>
-      <link>http://fernandonobel.xyz/autarquia/</link>
+      <link>https://fernandonobel.github.io/autarquia/</link>
       <pubDate>Mon, 21 Oct 2019 13:14:06 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/autarquia/</guid>
+      <guid>https://fernandonobel.github.io/autarquia/</guid>
       <description>&lt;p&gt;Mi piel se encuentra envejecida por el peso de la experiencia. &lt;br&gt;
 Si busco, en mi cuerpo puedo ver manchas, durezas, callos y cicatrices. &lt;br&gt;
 Una piel insensible. &lt;br&gt;
@@ -27,10 +42,10 @@ Un ser que lucha.&lt;/p&gt;</description>
     
     <item>
       <title>Desapego</title>
-      <link>http://fernandonobel.xyz/desapego/</link>
+      <link>https://fernandonobel.github.io/desapego/</link>
       <pubDate>Wed, 11 Sep 2019 23:12:36 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/desapego/</guid>
+      <guid>https://fernandonobel.github.io/desapego/</guid>
       <description>&lt;p&gt;Vivir es dejar atrás&lt;br&gt;
 dejar atrás lo que fue mío&lt;br&gt;
 dejar aquello que me definió&lt;br&gt;
@@ -58,19 +73,19 @@ que no quede ni yo mismo.&lt;br&gt;&lt;/p&gt;</description>
     
     <item>
       <title>El pozo</title>
-      <link>http://fernandonobel.xyz/pozo/</link>
+      <link>https://fernandonobel.github.io/pozo/</link>
       <pubDate>Thu, 08 Aug 2019 22:18:46 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/pozo/</guid>
+      <guid>https://fernandonobel.github.io/pozo/</guid>
       <description>&lt;p&gt;Mediante estas palabras busco proyectar luz en una parte de mi ser que olvido. Me asombra la ductilidad de la memoria, como el pasado baila y hace gimnasias para adaptarse a la percepción que tenemos de nosotros mismos. Me gustaría decir que de todo lo malo se aprende: pero no es así. Hay vivencias que nos debilitan. Y esta es una de ellas.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hueco</title>
-      <link>http://fernandonobel.xyz/hueco/</link>
+      <link>https://fernandonobel.github.io/hueco/</link>
       <pubDate>Wed, 17 Jul 2019 14:11:36 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/hueco/</guid>
+      <guid>https://fernandonobel.github.io/hueco/</guid>
       <description>&lt;p&gt;Está vacío, hueco &lt;br&gt;
 Lleno de moscas &lt;br&gt;
 Que, a solas &lt;br&gt;
@@ -79,10 +94,10 @@ Le atan al suelo&lt;/p&gt;</description>
     
     <item>
       <title>Vaciarme</title>
-      <link>http://fernandonobel.xyz/vaciarme/</link>
+      <link>https://fernandonobel.github.io/vaciarme/</link>
       <pubDate>Tue, 16 Jul 2019 14:01:59 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/vaciarme/</guid>
+      <guid>https://fernandonobel.github.io/vaciarme/</guid>
       <description>&lt;p&gt;Me gustaría vaciarme por dentro.&lt;br&gt;
 Expulsar una a una todas mis ideas.&lt;br&gt;
 Encajarlas como si se tratase de un puzzle.&lt;br&gt;
@@ -92,10 +107,10 @@ un ser que realizaba estos pensamientos.&lt;/p&gt;</description>
     
     <item>
       <title>Tren</title>
-      <link>http://fernandonobel.xyz/tren/</link>
+      <link>https://fernandonobel.github.io/tren/</link>
       <pubDate>Mon, 15 Jul 2019 21:29:13 +0200</pubDate>
       
-      <guid>http://fernandonobel.xyz/tren/</guid>
+      <guid>https://fernandonobel.github.io/tren/</guid>
       <description>&lt;p&gt;Cerca de aquí existe un tren triste.&lt;br&gt;
 Un tren que nunca se detiene en ninguna parada,&lt;br&gt;
 pero que siempre lleva pasajeros.&lt;br&gt;&lt;/p&gt;
